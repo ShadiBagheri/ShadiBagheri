@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Shadi
 
-🎓  I am Front-End Developer
+🎓  I am Front-End Developer👩🏻‍💻
 
 📄  Please look at my [LinkedIn](https://www.linkedin.com/in/shadi-bagheri) for more details about me.
 <h3>Skills :</h3>
 
-Html-Css __ 
+Html-Css __
 TailwindCss __ 
 Javascript __ 
 React.js __
