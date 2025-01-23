@@ -9,6 +9,7 @@ Html-Css __
 TailwindCss __ 
 Javascript __ 
 React.js __
+React Query __
 Next.js
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadiBagheri)](https://github.com/anuraghazra/github-readme-stats)
