@@ -8,6 +8,7 @@
 Html-Css __
 TailwindCss __ 
 Javascript __ 
+Typescript __
 React.js __
 React Query __
 Next.js
